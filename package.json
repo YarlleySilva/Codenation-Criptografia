@@ -1,0 +1,12 @@
+{
+  "name": "desafiocodenation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "crypto-js": "^4.0.0",
+    "form-data": "^3.0.0",
+    "node-fetch": "^2.6.0"
+  }
+}
