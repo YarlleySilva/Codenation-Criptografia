@@ -7,6 +7,6 @@
     "axios": "^0.19.2",
     "crypto-js": "^4.0.0",
     "form-data": "^3.0.0",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
